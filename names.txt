@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+echo good morning sir
+here are a list of names
+ade
+kalifat
+olu 
+bola
+simi
